@@ -1,5 +1,7 @@
 RENCAN KONTEN WPU
-- Javascrypt
+- Javascript
+  * ES6
+  * Frameworks Javascript
 - PHP Frameworks
 - Interview
 - Vlog
